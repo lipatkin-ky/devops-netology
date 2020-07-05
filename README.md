@@ -1,8 +1,11 @@
 # devops-netology
 
-### 2020-06-30
+### 2020-07-05
 ### Constantine Lipatkin
-### test
+### fix
+### 
 
 # add .gitignore
 # The .gitignore file lists the files and directories that will be ignored.
+
+### ADD new line
