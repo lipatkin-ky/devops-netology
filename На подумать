@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T05:06:25.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.449" etag="8DcjTrk5FPLK0ALcvBWP" version="13.10.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-17T14:31:41.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.456" etag="QBEHelWu89ktkIr1odbn" version="14.0.1" type="github" pages="4">
   <diagram id="qlDgAYA-b5WWnyNq2rFM" name="Страница 1">
     <mxGraphModel dx="1738" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1137,6 +1137,47 @@
           <mxGeometry x="0.0387" y="1" relative="1" as="geometry">
             <mxPoint x="-21" y="-54.17" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SDnOUn25DaEN7s_CXKar" name="Страница 4">
+    <mxGraphModel dx="1738" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="UBwPKxIPQP242j-57QMk-0" />
+        <mxCell id="UBwPKxIPQP242j-57QMk-1" parent="UBwPKxIPQP242j-57QMk-0" />
+        <mxCell id="UBwPKxIPQP242j-57QMk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="40" y="80" width="280" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="480" y="80" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="520" y="120" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="480" y="680" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="520" y="720" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-9" value="&amp;nbsp; &amp;nbsp;Сбер-Звук" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontStyle=1;fontSize=13;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="40" y="80" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-10" value="&amp;nbsp; &amp;nbsp;ДЦ 3Дата" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontStyle=1;fontSize=13;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="480" y="80" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-11" value="&amp;nbsp; &amp;nbsp;ДЦ Даталайн" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontStyle=1;fontSize=13;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="480" y="680" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-12" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="40" y="680" width="320" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="80" y="720" width="270" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="UBwPKxIPQP242j-57QMk-14" value="&amp;nbsp; &amp;nbsp;ДЦ Даталайн" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontStyle=1;fontSize=13;" vertex="1" parent="UBwPKxIPQP242j-57QMk-1">
+          <mxGeometry x="40" y="680" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
